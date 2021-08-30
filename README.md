@@ -2,7 +2,7 @@
 Some mini projects of image processing I wrote during my image processing course.
 * Language: MATLAB.
 
-* Chapter 1
+** Chapter 1 **
    * updatedError_diffusion_Algo
    * showColors
    * MySmooth1
@@ -19,7 +19,7 @@ Some mini projects of image processing I wrote during my image processing course
    * ex16_histogram_stretching_with_YIQ
    * example3
   
-* Chapter 2
+** Chapter 2 **
    * ex1
    * ex3_using_FFT
    * example2
